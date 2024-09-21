@@ -1,50 +1,23 @@
-# Welcome to your Expo app 👋
+# Testeate: Mini Quizzes for Learning
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Overview
+Testeate is a React Native application designed to enhance learning through engaging mini quizzes. Grounded in research on effective learning methodologies, Testeate offers users a fun and interactive way to test and improve their knowledge across various subjects.
 
-## Get started
+## Features
 
-1. Install dependencies
+- **Engaging Mini Quizzes:** Dive into a diverse selection of short quizzes that cover a wide range of topics, from mathematics to history, allowing for quick bursts of learning.
 
-   ```bash
-   npm install
-   ```
+- **Immediate Feedback:** Receive instant feedback on your answers, helping you understand mistakes and reinforcing learning in real-time.
 
-2. Start the app
+- **Customizable Experience:** Choose your preferred topics and adjust quiz difficulty to suit your knowledge level, ensuring a personalized learning experience.
 
-   ```bash
-    npx expo start
-   ```
+- **Points and Rewards System:** Accumulate points for each completed quiz and unlock special achievements to motivate you to keep learning and competing with friends.
 
-In the output, you'll find options to open the app in a
+- **Progress Tracking:** Monitor your performance over time with statistics that show your achievements, areas for improvement, and mastered subjects.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **User-Friendly Interface:** Navigate easily through the app with a clean and intuitive design, making learning enjoyable and accessible.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Why Choose Testeate?
+Testeate combines the principles of active learning with an engaging platform, making it an ideal tool for anyone looking to expand their knowledge. Whether you're preparing for an exam or just curious to learn something new, Testeate provides a convenient and enjoyable way to do so.
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**Download Testeate today and embark on your learning journey!**
